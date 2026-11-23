@@ -1,5 +1,1 @@
-{
-  "name": "token-radar",
-  "private": true,
-  "type": "module"
-}
+{"name":"token-radar","private":true,"scripts":{"test":"node --test lib/model.test.ts"},"type":"module"}
